@@ -1,0 +1,47 @@
+button.l{
+    font-family: Arial;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 12px;
+    background-color: #e3e5dd;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 2px 2px #656565;
+    transition: 0.3s;
+}button.l:hover{
+    color: #ffffff;
+    background-color: #000000;
+    transition: 0.3s;
+}button.l:focus{
+    box-shadow: 1px 1px #656565;
+    outline: 0;
+}
+h1.h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+#body{
+    background-color: #ffffff;
+    font-family: arial
+}
+/*inglês*/
+
+div{
+    margin: auto;
+    text-align: center;
+    
+    
+}
+div.transition{
+    background-color: white;
+    transition: 0.1s;
+    border-radius: 20px;
+}
+div.transition:hover{
+    background-color: #A4B3B3;
+    transition: 0.5s;
+    border-radius: 20px;
+}
